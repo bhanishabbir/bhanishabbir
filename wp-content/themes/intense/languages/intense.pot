@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Intense\n"
+"POT-Creation-Date: 2023-09-09 15:32+0530\n"
+"PO-Revision-Date: 2023-09-09 15:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Intense"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Intense!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Intense has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Intense Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Intense Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Intense Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Intense? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:14
+msgid "Intense Fitness"
+msgstr ""
+
+#: patterns/banner.php:19
+msgid "Focus on what you lift"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid ""
+"Pellentesque ultrices, ligula sit amet dictum vehicula, odio erat venenatis "
+"odio, ac placerat nisi risus a nisi. In et mi et ex ornare malesuada. In "
+"tempor tellus turpis, et feugiat odio elementum ut."
+msgstr ""
+
+#: patterns/banner.php:28
+msgid "Join Now"
+msgstr ""
+
+#: patterns/features.php:23
+msgid "Fitness Training"
+msgstr ""
+
+#: patterns/features.php:27
+#: patterns/features.php:49
+#: patterns/features.php:71
+#: patterns/features.php:93
+msgid "Nunc pellentesque neque id felis molestie interdum."
+msgstr ""
+
+#: patterns/features.php:45
+msgid "Body Building"
+msgstr ""
+
+#: patterns/features.php:67
+msgid "Basic Yoga"
+msgstr ""
+
+#: patterns/features.php:89
+msgid "Cardio"
+msgstr ""
+
+#: patterns/footer.php:21
+msgid ""
+"Vestibulum sollicitudin id nunc eget rutrum. Duis placerat, mi at ultrices "
+"lacinia, velit mi pretium ex, sit amet tristique est nisl a eros. Nunc eu "
+"lorem sed velit vulputate sagittis. Phasellus ultricies imperdiet nunc ut "
+"tempus."
+msgstr ""
+
+#: patterns/footer.php:38
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:42
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:46
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "Classes"
+msgstr ""
+
+#: patterns/footer.php:54
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:62
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Intense Address"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "263 Cherry Tree Drive, Florida."
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "904-655-0755"
+msgstr ""
+
+#: patterns/footer.php:98
+msgid "702-539-4046"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "example@example.com"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "Mon - Fri : 7:.00 AM - 8:00 PM"
+msgstr ""
+
+#: patterns/footer.php:126
+msgid "Working Hours"
+msgstr ""
+
+#: patterns/footer.php:130
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/footer.php:134
+msgid "7:00am - 8:00pm"
+msgstr ""
+
+#: patterns/footer.php:142
+msgid "SATURDAY"
+msgstr ""
+
+#: patterns/footer.php:146
+msgid "8:00am -6:00pm"
+msgstr ""
+
+#: patterns/footer.php:154
+msgid "SUNDAY"
+msgstr ""
+
+#: patterns/footer.php:158
+msgid "Closed"
+msgstr ""
+
+#: patterns/footer.php:169
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:173
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:173
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:173
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:173
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:173
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:25
+msgid "Became A Member"
+msgstr ""
+
+#: patterns/intro.php:23
+msgid "More About The Gym"
+msgstr ""
+
+#: patterns/intro.php:28
+msgid "Intense Fitness Point"
+msgstr ""
+
+#: patterns/intro.php:33
+msgid ""
+"Nunc pellentesque neque id felis molestie interdum. Maecenas quis neque "
+"ipsum. Mauris id elit luctus, feugiat massa commodo, venenatis erat. Donec "
+"nec dignissim metus. Pellentesque habitant morbi tristique senectus et netus "
+"et malesuada fames ac turpis egestas."
+msgstr ""
+
+#: patterns/intro.php:42
+msgid "Vestibulum euismod ante eu orci molestie."
+msgstr ""
+
+#: patterns/intro.php:52
+msgid "Curabitur congue tincidunt vehicula."
+msgstr ""
+
+#: patterns/intro.php:62
+msgid "Nullam pulvinar semper felis at lacinia."
+msgstr ""
+
+#: patterns/intro.php:68
+msgid "Read More"
+msgstr ""
+
+#: patterns/latest-news.php:14
+msgid "From Athlete Community"
+msgstr ""
+
+#: patterns/latest-news.php:19
+msgid "Recent Blog"
+msgstr ""
+
+#: patterns/latest-news.php:54
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "Train With Expert"
+msgstr ""
+
+#: patterns/team.php:18
+msgid "Team Of Expert Coaches"
+msgstr ""
+
+#: patterns/team.php:22
+#: patterns/testimonials.php:22
+msgid ""
+"Nunc pellentesque neque id felis molestie interdum. Maecenas quis neque "
+"ipsum. Mauris id elit luctus, feugiat massa<br> commodo, venenatis erat. "
+"Donec nec dignissim metus."
+msgstr ""
+
+#: patterns/team.php:53
+msgid "Self Defense Trainer"
+msgstr ""
+
+#: patterns/team.php:59
+msgid "Thomas Loiselle"
+msgstr ""
+
+#: patterns/team.php:85
+msgid "Aerobics Trainer"
+msgstr ""
+
+#: patterns/team.php:91
+msgid "Rachel Adam"
+msgstr ""
+
+#: patterns/team.php:117
+msgid "Weight Trainer"
+msgstr ""
+
+#: patterns/team.php:123
+msgid "Jason Mate"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/testimonials.php:18
+msgid "Client Feedback"
+msgstr ""
+
+#: patterns/testimonials.php:40
+msgid ""
+"Donec accumsan, dolor non molestie consequat, lacus tellus pellentesque "
+"magna, quis mollis libero diam in enim. Ut nec elit at lorem porta luctus "
+"non vel erat. Maecenas fringilla lacinia dolor id tincidunt. Proin vel "
+"egestas nulla, sed maximus turpis"
+msgstr ""
+
+#: patterns/testimonials.php:44
+msgid "Jancy"
+msgstr ""
+
+#: patterns/testimonials.php:48
+msgid "Trainee"
+msgstr ""
